@@ -1,0 +1,6 @@
+[submodule "lp_cc_lib"]
+	path = lp_cc_lib
+	url = git@github.com:no111u3/lp_cc_lib.git
+[submodule "lp_hal"]
+	path = lp_hal
+	url = git@github.com:no111u3/lp_hal.git
